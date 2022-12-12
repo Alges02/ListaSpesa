@@ -1,3 +1,4 @@
 pesce 
 pere
 banane
+arancia
