@@ -1,5 +1,2 @@
 pesce 
 pere
-banane
-arancia
-mandarino
